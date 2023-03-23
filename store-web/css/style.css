@@ -1,0 +1,84 @@
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chang_logo {
+    width: 60%;
+    margin: auto;
+    text-align: right;
+}
+.chang_logo img {
+    width: 100%;
+    height: auto;
+    max-width: 5%;
+}
+    
+header {
+    text-align: right;
+    font-weight: lighter;
+    font-size: large;
+    line-height: 0%;
+    color: black
+    
+
+}
+
+a {
+    text-decoration: none!important;
+    color: #0089ff;
+    background: #e5f1ff;
+    border-radius: 5px;
+    transition: none;
+    display: inline-block;
+    padding: 3px 11px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    position: relative;
+    z-index: 5;
+    border: none;
+    font-size: 23px;
+    line-height: 120%;
+}
+
+a:hover {
+    color: red;
+}
+
+nav {
+    text-align: left;
+    list-style-type: none;
+}
+
+main {
+    text-align: center;
+    font-size: x-large;
+    color: black;
+
+}
+
+footer {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    text-decoration: none!important;
+    color: #0089ff;
+    background: #e5f1ff;
+    border-radius: 5px;
+    transition: none;
+    display: inline-block;
+    padding: 3px 11px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    position: relative;
+    z-index: 5;
+    border: none;
+    font-size: 15px;
+    line-height: 120%;
+}
+
