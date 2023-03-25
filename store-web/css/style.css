@@ -1,24 +1,57 @@
+.chang_logo {
+    width: 60%;
+    margin: auto;
+    text-align: right;
+}
+
+.chang_logo img {
+    width: 100%;
+    height: auto;
+    max-width: 5%;
+}
 
 .container {
     width: 60%;
     margin: auto;
 }
 
+.growtopiaimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.main-font {
+    font-family: 'Courier New', monospace;
+}
+
+.buttons {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.project-box {
+    display: flex;
+}
+
+.project img {
+    width: 350px;
+    height: 200px;
+}
+
+.contact-head {
+    text-align: center;
+}
+
+.contact-info {
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.chang_logo {
-    width: 60%;
-    margin: auto;
-    text-align: right;
-}
-.chang_logo img {
-    width: 100%;
-    height: auto;
-    max-width: 5%;
-}
-    
 header {
     text-align: right;
     font-weight: lighter;
@@ -30,7 +63,7 @@ header {
 }
 
 a {
-    text-decoration: none!important;
+    text-decoration: none;
     color: #0089ff;
     background: #e5f1ff;
     border-radius: 5px;
@@ -43,6 +76,7 @@ a {
     z-index: 5;
     border: none;
     font-size: 23px;
+    font-weight: 300;
     line-height: 120%;
 }
 
@@ -81,4 +115,3 @@ footer {
     font-size: 15px;
     line-height: 120%;
 }
-
