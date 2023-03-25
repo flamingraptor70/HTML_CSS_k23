@@ -1,6 +1,11 @@
 Metropolia Ohjelmisto 2 
 HTML + CSS tehtävä
 
+WebFile
+https://users.metropolia.fi/~khaic/HTML_CSS_1/
+
+Website
+https://users.metropolia.fi/~khaic/HTML_CSS_1/store-web/
 
 ### Evaluation
 On submission, you will automatically receive grade 5. If some aspects of the assignment are missing or inadequate, grade will be deducted as follows:
