@@ -1,5 +1,8 @@
-Metropolia Ohjelmisto 2 
-HTML + CSS tehtävä
+# Dang Chan
+# Metropolia Ammattikorkeakoulu Tieto- ja viestintätekniikka
+# HTML ja CSS Opiskelu
+# Ohjelmisto_2_K23 kurssi
+# HTML + CSS tehtävä
 
 WebFile
 https://users.metropolia.fi/~khaic/HTML_CSS_1/
